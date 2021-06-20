@@ -10,14 +10,14 @@
 <html>
 <body>
   
-<p style="color:red;">enter your age year</p>
+<p style="color:grey;">enter your age year</p>
 
 </body>
 </html>
 
-<h2>HTML Image</h2>
-<img src="pic.jpg" alt="pic" width="500" height="333">
 
-</body>
-</html>
+
+
+
+
 
