@@ -2,15 +2,19 @@
 <html>
 <body>
 
-<h1>Select your date of birth </h1>
-<h2>enter your age year <h2>
-<h3> age <h3>
+<h1 style="border: 2px solid Purple;">SELECT YOUR DATE OF BIRTH</h1>
+
 </body>
 </html>
-<!DOCTYPE html>
-<html>
-<body>
 
-<p>
-This app calculates the age by given date of birth , year.
-</p>
+
+
+
+
+
+
+
+
+
+
+
